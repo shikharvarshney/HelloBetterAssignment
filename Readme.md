@@ -35,6 +35,7 @@ VSCode
 7. Folder Structure is designed using a tree structure:-
 
     src
+
      |--- ```Components (Reusable components)```
 
      |--- ```Database (Record Models and reading and writing fucntions)```
