@@ -33,11 +33,15 @@ VSCode
 5. All the basic components like Buttons, App navigation bar, Response type picker, etc are made as Reusable components so that they can be used independently in the project to maintain consistency. You can also tweak them as per your need.
 6. ```Realm is used ``` in here to store the various types of media responses given by the user so that the record remains intact.
 7. Folder Structure is designed using a tree structure:-
+
     src
-     |--- Components (Reusable components)
-     |--- Database (Record Models and reading and writing fucntions)
-     |--- Screens -> All the UI rendering of screens.
-     |--- Utils -> Supporting code like constants, strings etc.
+     |--- ```Components (Reusable components)```
+
+     |--- ```Database (Record Models and reading and writing fucntions)```
+
+     |--- ```Screens -> All the UI rendering of screens.```
+
+     |--- ```Utils -> Supporting code like constants, strings etc.```
 
 ## Getting Started
 
