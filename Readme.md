@@ -32,7 +32,10 @@ VSCode
 4. All the management of Code Structure, Folder Structure, Design Pattern, Fonts, Images have been properly managed in the project. Just follow the best practices and you will never have to worry about anything else.
 5. All the basic components like Buttons, App navigation bar, Response type picker, etc are made as Reusable components so that they can be used independently in the project to maintain consistency. You can also tweak them as per your need.
 6. ```Realm is used ``` in here to store the various types of media responses given by the user so that the record remains intact.
-7. Folder Structure is designed using a tree structure:-
+7. ```Recorded responses``` are stored in the Database and ```View Responses``` button will appear on the main screen after a single response is recorded.
+8. ```Response list``` consists of all 3 types of media responses like ```video```, ```audio``` and ```text```.
+9. ```Subtle animations``` have been incorporated in the app like the ```Top header and controls``` on the Video player screen. ```Response options``` animations coming from the bottom. ```Play Button``` turning to ```Pause and Stop```.
+10. Folder Structure is designed using a tree structure:-
 
     src
 
